@@ -13,4 +13,5 @@ public interface Operation {
 	 * @return name of the operation
 	 */
 	public String getName();
+	//Comentari de Pere Vicent
 }
