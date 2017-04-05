@@ -42,5 +42,6 @@ public class Operations {
 		(commands.keySet()).toArray(keys);
 		Arrays.sort(keys);
 		return keys[i];
+		//segon comentari de Pere Vicent
 	}
 }

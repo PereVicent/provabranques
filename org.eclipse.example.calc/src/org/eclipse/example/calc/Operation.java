@@ -14,4 +14,5 @@ public interface Operation {
 	 */
 	public String getName();
 	//Comentari de Pere Vicent
+	//Tercer comentari de Pere Vicent
 }
